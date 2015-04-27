@@ -10,7 +10,7 @@ public class TestMyStack{
 		stack1.push("a");
 		stack1.push("W");
 		
-		
+		 
 		MyStack stack2 = (MyStack)stack1.clone();
 		
 		stack2.push(" ");
